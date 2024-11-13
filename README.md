@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -46,5 +47,11 @@
 						<td>:</td>
 						<td>+6285955061515</td>
 					</tr>
+				</table>
+			</div>
+		</div>		
+	</div>
 </body>
 </html>
+
+<script src="Untitled-1.js"></script>
