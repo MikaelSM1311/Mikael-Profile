@@ -46,9 +46,5 @@
 						<td>:</td>
 						<td>+6285955061515</td>
 					</tr>
-				</table>
-			</div>
-		</div>		
-	</div>
 </body>
 </html>
